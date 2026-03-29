@@ -9,6 +9,10 @@ A Random Forest classifier is trained on a credit card fraud dataset. Two XAI me
 - Counterfactual explanations (DiCE)
 The project compares a true positive fraud case and a false positive case to better understand model behavior.
 
+## Report
+
+The full report is available in the repository as a PDF file.
+
 ## Dataset
 
 The dataset used is the Credit Card Fraud Detection dataset from Kaggle:
